@@ -15,5 +15,5 @@ You can start editing the popup by modifying `popup.tsx`. It should auto-update 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/)
 
 ```
-trc20: TXhRqBzhG4GxE1AfCHRB1abCzcwPjEwNMQ
+trc20: TC3WvDPrBwdDK6c1LnLoThtWfRFgoqGCVn
 ```
